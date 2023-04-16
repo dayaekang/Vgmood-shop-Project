@@ -1,5 +1,5 @@
 # Vgmood shoppingmall
-<img src="https://user-images.githubusercontent.com/93265694/232323927-cfe757df-f150-488c-8348-e76c61b0d7a3.gif"/>
+<img src="https://user-images.githubusercontent.com/93265694/232324273-2887256f-8091-40c2-be24-18eebb8705df.gif"/>
 
 
 ## 🖥️ 프로젝트 소개
