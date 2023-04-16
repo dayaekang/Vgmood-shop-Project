@@ -6,12 +6,11 @@
 <br>
 
 ### ⚙️ 사용 기술 스택
--React
--firebase 
-    -firebase는 백엔드 서버 기능, 데이터 동기화 기능을 제공하는 백엔드 서비스로, 서버 관리와 관련된 부담을 줄일 수    있다는 장점과 구글인증, 클라우드 스토리지등 다양한 기능을 제공하기 때문에 firebase를 사용했습니다. 
--Cloudinary
-   - Cloudinary를 사용하면, 이미지 파일을 클라우드에 업로드하고, 해당 이미지 파일에 대한 고유 URL을 반환합니다. 이 URL을 이용하여 언제 어디서든 이미지 파일에 접근할 수 있고 firebase도 사진 업로드 기능이 있지만 cloudinary는 커스터마이징기능도 제공하는 장점으로 사용해보게 됐습니다.
-  
+- **React**  
+- **firebase** 
+  - firebase는 백엔드 서버 기능, 데이터 동기화 기능을 제공하는 백엔드 서비스로, 서버 관리와 관련된 부담을 줄일 수    있다는 장점과 구글인증, 클라우드 스토리지등 다양한 기능을 제공하기 때문에 firebase를 사용했습니다. 
+- **Cloudinary** 
+  -Cloudinary를 사용하면, 이미지 파일을 클라우드에 업로드하고, 해당 이미지 파일에 대한 고유 URL을 반환합니다. 이 URL을 이용하여 언제 어디서든 이미지 파일에 접근할 수 있고 firebase도 사진 업로드 기능이 있지만 cloudinary는 커스터마이징기능도 제공하는 장점으로 사용해보게 됐습니다.
   
 ## 📌 주요 기능
 #### 로그인 - <a href="https://github.com/chaehyuenwoo/SpringBoot-Project-MEGABOX/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(Login)" >상세보기 - WIKI 이동</a>
