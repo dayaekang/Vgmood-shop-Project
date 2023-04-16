@@ -17,15 +17,19 @@
   
   
 ## 📌 주요 기능
+
+<img src="https://user-images.githubusercontent.com/93265694/232329220-17a97ee1-ed7a-4aa1-ba40-d9cdbaf4da07.gif"/>
 #### 로그인 ,admin 
 - admin, user 관계없이 google oauth를 이용하도록 팝업창 발생합니다
 - admin 계정으로 로그인했을 때는 nav바에 제품 등록 버튼이 추가 됩니다.
 
+<img src="https://user-images.githubusercontent.com/93265694/232329228-dd5942ac-fcf7-44a9-ae3a-30deecbdc42f.gif"/>
 #### 제품 등록 
 - Cloudinary를 사용하여 FormData 객체에 넣어 파일을 전송해 upload한 후 , 해당 이미지 파일에 대한 고유 URL을 반환하는 func을 만들어
   URL을 받아올 수 있습니다. 받아온 URL을 다시 firebase를 사용해 제품을 추가해주었습니다.
 - 업로드 중, 업로드 완료 피드백 ui를 간단하게 구현해보았습니다.
 
+<img src="https://user-images.githubusercontent.com/93265694/232329232-cbfe359b-d912-4fd1-8d1b-ed4d7c6c43a7.gif"/>
 #### 쇼핑카트
 - 상품을 추가하면 nav바 아이콘에 추가되어 총 몇개가 담겨있는지 확인 가능합니다.
 - Firebase에서 사용자마다 저장된 카트를 가져오기 위해 사용자의 고유 ID를 이용해서 해당 사용자의 카트 데이터를 가져왔습니다.
